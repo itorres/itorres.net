@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono|IM+Fell+English:400,400italic);
+/*
+font-family: 'Artifika', serif;
+font-family: 'Arvo', serif;
+font-family: 'IM Fell English', serif;
+
+*/
+.code {
+	font-family: 'Ubuntu Mono', Monospace;
+	font-size: 10pt;
+}
+
+body {
+	clear: both;
+	margin: auto auto;
+	width: 50em;
+	max-width: 80em;
+	background: #ddd;
+	color: #444;
+	font-family: 'IM Fell English', serif;
+	font-size: 12pt;
+}
+
+a {
+ 	color: #a63;
+}
+h1,h2,h3,h4,h5 {
+	font-family: 'IM Fell English', serif;
+}
+
+h1 {
+	font-weight: 400;
+	border-bottom: 1px solid black;
+}
+
+ul#social * {
+	margin: 0px; padding: 0em;
+	text-align: right;
+}
+ul#social li {
+	font-size: 10pt;
+	list-style: none;
+	display: inline;
+	padding-left: 5pt;
+}
+
+ul.postlist {
+	list-style-type: none;
+}
+ul.postlist > li:before {
+	content: "\00BB \0020";
+}
+
+ul#social a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+ul#social {
+	list-style: none;
+	padding: 0px
+}
+
+#foot {
+	font-family: 'IM Fell English', serif;
+	margin-top: 10pt;
+	float: left;
+}
+
+img#itorres {
+	margin: 0 10pt 5pt 10pt;
+	width: 200px; float: right;
+}
+
+.highlight {
+	background-color: #eee;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ignacio.torresmasdeu.name</title>
+    <link>http://ignacio.torresmasdeu.name/</link>
+    <atom:link href="http://ignacio.torresmasdeu.name/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Ignacio Torres Masdeu</description>
+    <language>en-us</language>
+    <pubDate>Sun, 13 Jan 2013 23:56:32 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2013 23:56:32 +0100</lastBuildDate>
+
+    
+    <item>
+      <title>Another year, another attempt at blogging</title>
+      <link>http://ignacio.torresmasdeu.name/2013/01/13/another-year-another-attempt/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0100</pubDate>
+      <author>ignacio@torresmasdeu.name (Ignacio Torres Masdeu)</author>
+      <guid>http://ignacio.torresmasdeu.name/2013/01/13/another-year-another-attempt</guid>
+      <description>&lt;p&gt;This time I&amp;#8217;ll follow the steps I found in a blog post aptly named &lt;a href='http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/'&gt;Static blogging the Jekyll way&lt;/a&gt;. &lt;a href='https://github.com/mojombo/jekyll' title='A blog-aware, static site generator in Ruby'&gt;Jekyll&lt;/a&gt; has several features I dig:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;#8217;s a static site generator.&lt;/li&gt;
+
+&lt;li&gt;It&amp;#8217;s backed on plain text files and I can choose to write textile, markdown, you name it.&lt;/li&gt;
+
+&lt;li&gt;Hence, I can use vim to edit my posts and keep them in git.&lt;/li&gt;
+
+&lt;li&gt;The &lt;a href='https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter'&gt;YAML Front Matter&lt;/a&gt; is neat.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+
+  </channel> 
+</rss>

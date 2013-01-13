@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h2>Last activity</h2>
+<ul class="postlist">
+	{% for post in site.posts %}
+	<li> {{ post.title }}
+	{{ post.date | date: "%Y-%m-%d" }}
+	<blockquote>{{ post.content | strip_html | truncatewords: 25 }}
+	<a href="{{post.url}}">Read more</a>
+	</blockquote>
+	</li>
+	{% endfor %}
+</ul>

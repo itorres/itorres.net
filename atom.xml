@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Ignacio Torres Masdeu</title>
+  <link href="http://ignacio.torresmasdeu.name/"/>
+  <link type="application/atom+xml" rel="self" href="http://ignacio.torresmasdeu.name/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://ignacio.torresmasdeu.name/</id>
+  <author>
+    <name>Ignacio Torres Masdeu</name>
+    <email>ignacio@torresmasdeu.name</email>
+  </author>
+
+  {% for post in site.posts limit: 10 %}
+  <entry>
+    <id>http://ignacio.torresmasdeu.name{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://ignacio.torresmasdeu.name{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Ignacio Torres Masdeu</name>
+      <uri>http://ignacio.torresmasdeu.name/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>

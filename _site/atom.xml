@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Ignacio Torres Masdeu</title>
+  <link href="http://ignacio.torresmasdeu.name/"/>
+  <link type="application/atom+xml" rel="self" href="http://ignacio.torresmasdeu.name/atom.xml"/>
+  <updated>2013-01-13T23:56:32+01:00</updated>
+  <id>http://ignacio.torresmasdeu.name/</id>
+  <author>
+    <name>Ignacio Torres Masdeu</name>
+    <email>ignacio@torresmasdeu.name</email>
+  </author>
+
+  
+  <entry>
+    <id>http://ignacio.torresmasdeu.name/2013/01/13/another-year-another-attempt</id>
+    <link type="text/html" rel="alternate" href="http://ignacio.torresmasdeu.name/2013/01/13/another-year-another-attempt/"/>
+    <title>Another year, another attempt at blogging</title>
+    <published>2013-01-13T00:00:00+01:00</published>
+    <updated>2013-01-13T00:00:00+01:00</updated>
+    <author>
+      <name>Ignacio Torres Masdeu</name>
+      <uri>http://ignacio.torresmasdeu.name/</uri>
+    </author>
+    <content type="html">&lt;p&gt;This time I&amp;#8217;ll follow the steps I found in a blog post aptly named &lt;a href='http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/'&gt;Static blogging the Jekyll way&lt;/a&gt;. &lt;a href='https://github.com/mojombo/jekyll' title='A blog-aware, static site generator in Ruby'&gt;Jekyll&lt;/a&gt; has several features I dig:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;#8217;s a static site generator.&lt;/li&gt;
+
+&lt;li&gt;It&amp;#8217;s backed on plain text files and I can choose to write textile, markdown, you name it.&lt;/li&gt;
+
+&lt;li&gt;Hence, I can use vim to edit my posts and keep them in git.&lt;/li&gt;
+
+&lt;li&gt;The &lt;a href='https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter'&gt;YAML Front Matter&lt;/a&gt; is neat.&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  
+ 
+</feed>
