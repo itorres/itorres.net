@@ -3,7 +3,7 @@ layout: default
 ---
 <h2>Last activity</h2>
 <ul class="postlist">
-	{% for post in site.posts %}
+	{% for post in site.posts limit: 10 %}
 	<li> {{ post.title }}
 	{{ post.date | date: "%Y-%m-%d" }}
 	<blockquote>{{ post.content | strip_html | truncatewords: 25 }}

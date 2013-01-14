@@ -15,3 +15,5 @@ This time I'll follow the steps I found in a blog post aptly named [Static blogg
 [Pygments]: http://pygments.org/
 [jekyllway]: http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/
 [YAML Front Matter]: https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter
+
+I'm in the process of importing my old entries conveniently curated. This means that many articles which don't reflect my current thoughts will not be published, though they will be available on the git repository.
