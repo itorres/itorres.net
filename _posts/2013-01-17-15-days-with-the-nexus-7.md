@@ -7,7 +7,7 @@ published: false
  
 If I had
 
-I had the opportunity to use a [Nexus 7][] with [Android][] 4.2 for the past two weeks and I've been greatly impressed by the evolution of Android in the past two years. Especially by the apparition of some applications tailored for tablet use, though mainly the good ones are from Google. I used the mobile version and this constitutes an experience of its own.
+I had the opportunity to use a [Nexus 7][] with [Android][] 4.2 for the past two weeks and I've been greatly impressed by the evolution of Android in the past two years. Especially by the apparition of some applications tailored for tablet use, though mainly the good ones are from Google. I used the mobile version and this constituted an experience of its own.
 
 I've been an avid user of iOS devices (iPhone 3G-4, iPad 1-2) for the past years and comparing the two platforms I have found a lot of shortcomings in Android, both hardware ans software-wise, during these two weeks.
 
