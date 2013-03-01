@@ -1,2 +1,10 @@
 pygments: true
 permalink: pretty
+auto: true
+server: true
+prose:
+  metadata:
+    "_posts/blog": |
+      title:    "Title of your article"
+      abstract: "Abstract"
+      lang: en
