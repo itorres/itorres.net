@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Moving to Github Pages
 lang: en
 ---
