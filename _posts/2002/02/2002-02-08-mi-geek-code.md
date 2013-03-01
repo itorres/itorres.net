@@ -1,7 +1,7 @@
 ---
 layout: post
 created: 2002-02-08 17:00:00
-published: false
+published: true
 slug: mi-geek-code
 template: null
 title: Mi geek code
@@ -27,5 +27,6 @@ Lo he encontrado despu&eacute;s de casi dos a&ntilde;os sin verlo. Ahora me hace
 
 Podeis decodificarlo en <a href="http://www.ebb.org/ungeek/">The Geek Decoder Page</a>
 
+La frase del _Dr. Jeckyll_ se la robé sin vergüenza alguna a [jcea][]
 
-
+[jcea]: http://jcea.es/ "Jesús Cea Avión"

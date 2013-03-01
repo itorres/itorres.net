@@ -10,9 +10,13 @@ url: null
 
 ---
 
-Bueno, aparte de 'Reaper Man', citado hace un par de dias (que por cierto, ya terminé y no tiene desperdicio) estoy leyendo un par de libros.
+Bueno, aparte de [Reaper Man][], citado hace un par de dias (que por cierto, ya terminé y no tiene desperdicio) estoy leyendo un par de libros.
 
-El otro día compré <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0006551262">Girlfriend in a coma</a> de Douglas Coupland. Es increible, no tiene nada que ver con nada que haya leido antes de este autor. Lo malo es que a los dos días volvía a entrar en la tienda y eoncontré algo que me había pasado desapercibido: "<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0140298045/ignaciotorres-21">Rebel Code</a>", la historia del movimiento _open source_ de la boca de sus protagonistas.
+El otro día compré [Girlfriend in a coma][] de Douglas Coupland. Es increible, no tiene nada que ver con nada que haya leido antes de este autor. Lo malo es que a los dos días volvía a entrar en la tienda y eoncontré algo que me había pasado desapercibido: "[Rebel Code][]", la historia del movimiento _open source_ de la boca de sus protagonistas.
+
+[Reaper Man]: http://www.amazon.co.uk/exec/obidos/ASIN/0552166685/ignaciotorres-21
+[Rebel Code]: http://www.amazon.co.uk/exec/obidos/ASIN/0140298045/ignaciotorres-21
+[Girlfriend in a coma]: http://www.amazon.co.uk/exec/obidos/ASIN/0006551262/ignaciotorres-21
 
 Como es natural no pude resistirme a (1) comprarlo y (2) empezar su lectura inmediatamente. Estoy a punto de terminarlo (capítulo 16 de 18) y es lo mejor que he leido nunca acerca del tema. Refleja el espiritu y los protagonistas del código abierto desde sus inicios hasta la actualidad.
 
@@ -24,6 +28,3 @@ Elementos de interés del libro:
 - Plataformas: Vic-20, IBM-650, Alpha, i8086, sparc...
 
 Lectura obligada.
-
-
-
