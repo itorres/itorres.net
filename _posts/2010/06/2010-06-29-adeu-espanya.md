@@ -4,7 +4,7 @@ created: 2010-06-29 06:45:53
 published: false
 slug: adeu-espanya
 template: null
-title: "Ad\xE9u, Espanya"
+title: "Adéu, Espanya"
 updated: 2010-07-20 09:13:40.064667
 url: null
 

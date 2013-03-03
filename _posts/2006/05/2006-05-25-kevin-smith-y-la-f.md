@@ -4,7 +4,7 @@ created: 2006-05-25 20:46:04
 published: true
 slug: kevin-smith-y-la-f
 template: null
-title: "Kevin Smith y la f\xE9"
+title: "Kevin Smith y la fé"
 updated: 2010-03-25 17:44:25.050653
 url: null
 
