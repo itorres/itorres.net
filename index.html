@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-<h2>Last activity</h2>
-<ul class="postlist">
-	{% for post in site.posts limit: 5 %}
-	<li> {{ post.title }}
-	{{ post.date | date: "%Y-%m-%d" }}
-	<blockquote>{{ post.content | strip_html | truncatewords: 25 }}
-	<a href="{{post.url}}">Read more</a>
-	</blockquote>
-	</li>
-	{% endfor %}
-</ul>
+{% for post in site.posts limit: 5 %}
+<div class="post">
+	<h2 class="content">{{ post.title }}</h2>	
+	
+
+	<h5>Published on {{ post.date | post: "%Y-%m-%d" }} <a href="{{post.url}}"> <i class="icon-leaf"></i></a></h5>
+	{{ post.content }}
+</div>
+{% endfor %}
+
 <a href="/archive/">Older entries</a>

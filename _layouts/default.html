@@ -2,11 +2,11 @@
 <html{%  if page.lang %} lang="{{ page.lang }}"{% endif %}>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{% if page.title %} {{ page.title }} | {% endif %} Ignacio Torres Masdeu</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
-
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<title>{% if page.title %} {{ page.title }} | {% endif %} Ignacio Torres Masdeu</title>
+  	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel='alternate' type='application/atom+xml' title='Atom (full content)' href='/atom.xml' />
     <link rel="stylesheet" href="/s/pygments.css" type="text/css">
     <link rel="stylesheet" href="/s/main.css" type="text/css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -44,11 +44,13 @@
 				<div class="content">{{content}}</div>
   			</div>
 			<div class="span3">
-				<div class="well sidebar-nav"><p>I'm a proud father of three living in the <a href="http://en.wikipedia.org/wiki/Bages">Bages</a>, a <a href="http://en.wikipedia.org/wiki/Catalan_people">Catalan</a> county, with <a title="Sara" href="https://plus.google.com/104003128687804944558">the best partner in crime</a> I could wish for.</p>
+				<div class="well sidebar-nav">
+          <h2>About</h2>
+          <p>I'm a proud father of three living in the <a href="http://en.wikipedia.org/wiki/Bages">Bages</a>, a <a href="http://en.wikipedia.org/wiki/Catalan_people">Catalan</a> county, with <a title="Sara" href="https://plus.google.com/104003128687804944558">the best partner in crime</a> I could wish for.</p>
 				<p>I'm also lucky and crazy enough to be:
 				<ul>
 					<li>Technical partner in a <a title="XIN" href="http://xin.cat/">really special project</a>.</li>
-					<li>Member and <em>Alpha Geek</em> of an association that builds <a title="Guifibages" href="http://guifibages.cat/">free <em>(as in freedom)</em> computer networks</a> in our shire, part of a <a title="Guifi.net" href="http://guifi.net/">greater project</a>.</li>
+					<li>Member and <em>Alpha Geek</em> of an association that builds <a title="Guifibages" href="http://guifibages.cat/">free <em>(as in freedom)</em> computer networks</a>, part of a <a title="Guifi.net" href="http://guifi.net/">greater project</a>.</li>
 					<li>Systems Engineer in a <a title="Softonic" href="http://www.softonic.com/nosotros">really cool company</a>.</li>
 				</ul></p>
 				<p>Anyway the usual disclaimer applies: the opinions expressed here are my own, and no other party necessarily agrees with them.</p>
