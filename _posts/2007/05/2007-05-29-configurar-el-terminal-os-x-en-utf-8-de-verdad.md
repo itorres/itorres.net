@@ -10,9 +10,9 @@ url: null
 
 ---
 
-Recogido de una nota de  Mietek Bąk](http://desp.night.pl/terminal.html)
+Recogido de una nota de  [Mietek Bąk](http://desp.night.pl/terminal.html)
 
-En el inspector de terminal (Apple-I):
+En el inspector de terminal (Command-I):
 
 * En el apartado _Emulación_ desactivar la opción _Escapar los caracteres que no sean ASCII_.
 * En la sección _Visualización_ elegir _Unicode (UTF-8)_ como codificación de los caracteres.
@@ -38,4 +38,4 @@ Tengo la sana costumbre de establecer sesiones ssh con hosts remotos y usar scre
 #### FAQ:
 
 - *P:* Uso MacOS X 10.4 y esto no tira macho.
-- *R:* Añade una clave @LC_CTYPE@ con el valor @es_ES.UTF-8@ al diccionario raíz del archivo _~/.MacOSX/environment.plist_.
+- *R:* Añade una clave @LC_CTYPE@ con el valor @es_ES.UTF-8@ al diccionario raíz del archivo *~/.MacOSX/environment.plist*.
