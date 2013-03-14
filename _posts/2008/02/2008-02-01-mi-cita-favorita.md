@@ -6,6 +6,7 @@ slug: mi-cita-favorita
 template: null
 title: Mi cita favorita
 updated: 2010-03-25 17:44:27.954440
+updated: 2013-03-14 13:36:27.0
 url: null
 
 ---
@@ -23,6 +24,10 @@ Las veces que busqué información sobre ella la encontré como firma en cientos
 > Sich weiß Rechenschaft zu geben,  
 > Bleib im Dunkeln unerfahren,  
 > Mag von Tag zu Tage leben.  
+
+La traducción aceptada al inglés es curiosamente sucinta:
+
+> He who cannot draw on three thousand years is living from hand to mouth.
 
 El sentido que le atribuyo es el que posteriormente resumiría George Santayana en el primer volumen (Reason in common sense) de [The life of reason][gut_lor]:
 
