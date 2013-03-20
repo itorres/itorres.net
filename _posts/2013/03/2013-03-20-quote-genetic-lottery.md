@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Quote\: Genetic lottery
+title: Genetic lottery
 lang: en
 ---
 
