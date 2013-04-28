@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 published: true
 title: Moving to Github Pages
 lang: en

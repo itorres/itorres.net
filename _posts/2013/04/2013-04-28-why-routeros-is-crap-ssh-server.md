@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 published: true
-long_title: Why RouterOS is crap: SSH server implementation
+title: "Why RouterOS is crap: SSH server implementation"
 lang: en
 ---
 
