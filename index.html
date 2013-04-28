@@ -3,7 +3,7 @@ layout: default
 ---
 {% for post in site.posts limit: 5 %}
 <div class="post">
-	<h2 class="content">{{ post.title }}</h2>	
+	<h2 class="content">{{ post.page.title }}</h2>	
 	
 
 	<h5>Published on {{ post.date | post: "%Y-%m-%d" }} <a href="{{post.url}}"> <i class="icon-leaf"></i></a></h5>
