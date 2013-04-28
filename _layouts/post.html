@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-{% if page.long_title %}
-<h2 class="content">{{ page.long_title }}</h2>
-{% else %}
 <h2 class="content">{{ page.title }}</h2>
-{% endif %}
 <h5>Published on {{ page.date | date: "%Y-%m-%d" }}</h5>
 <div class="post">
 	{{ content }}
