@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Why RouterOS is crap: SSH server implementation
+long_title: Why RouterOS is crap: SSH server implementation
 lang: en
 ---
 
