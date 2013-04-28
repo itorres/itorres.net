@@ -3,14 +3,9 @@ layout: default
 ---
 {% for post in site.posts limit: 5 %}
 <div class="post">
-	{% if post.long_title %}
-		<h2 class="content">{{ post.long_title }}</h2>
-	{% else %}
-		<h2 class="content">{{ post.title }}</h2>
-	{% endif %}
-	
+		<h2 class="content">{{ post.title }}</h2>	
 
-	<h5>Published on {{ post.date | post: "%Y-%m-%d" }} <a href="{{post.url}}"> <i class="icon-leaf"></i></a></h5>
+	<h5>Published on {{ post.date | date: "%Y-%m-%d" }} <a href="{{post.url}}"> <i class="icon-leaf"></i></a></h5>
 	{{ post.content }}
 </div>
 {% endfor %}
