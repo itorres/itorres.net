@@ -1,3 +1,4 @@
+timezone: UTC
 pygments: true
 permalink: pretty
 auto: true
