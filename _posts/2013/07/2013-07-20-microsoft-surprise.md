@@ -27,14 +27,14 @@ Windows Phone 7.8. Then I was able to start to configure it.
 
 First step, create a Windows Live account linked to my torresmasdeu.name email
 account. Configuring my work (Exchange) and personal (Google Apps), Facebook and
-LinkedIn accounts was a breeze. I had easey and fast access to all my email,
+LinkedIn accounts was a breeze. I had easy and fast access to all my email,
 calendars and contacts. The ability to merge accounts is great and reminds me a
 lot of Palm's WebOS Synergy. The great point is that my phone's People Hub
 becomes a single point of communication and it has a web version on
 people.live.com.
 
-Then I looked for an alternative to [Google Authenticator][gauth]and found that
-[Microsoft has an inhouse one][authenticator].
+Then I looked for an alternative to [Google Authenticator][gauth] and found
+that [Microsoft has an inhouse one][authenticator].
 
 [gauth]: https://itunes.apple.com/en/app/google-authenticator/id388497605
 [authenticator]: http://www.windowsphone.com/en-us/store/app/authenticator/021dd79f-0598-e011-986b-78e7d1fa76f8
