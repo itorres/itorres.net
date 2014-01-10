@@ -5,6 +5,7 @@ title: "2014 wk.2: Favourite articles"
 lang: en
 ---
 
+
 Steven Levy at his best: "[How the NSA Almost Killed the Internet][1]". A great summary of every leak (to date) and its political and economic significance.
 
 [1]: http://www.wired.com/threatlevel/2014/01/how-the-us-almost-killed-the-internet/
@@ -20,4 +21,3 @@ Another googler, Brett Slatkin, advocates to have a [dialectic instead of a deba
 A great (and maybe a bit controversial) [interview to Gregorio Morán][4]. It has some great historical quotes and, even if you don't trust it, it can give you starting points to lead your study of recent spanish history.
 
 [4]: http://www.jotdown.es/2013/12/gregorio-moran-los-padres-de-la-transicion-eran-absolutamente-impresentables/
-
