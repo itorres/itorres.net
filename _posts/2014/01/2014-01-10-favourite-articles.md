@@ -5,14 +5,13 @@ title: "2014 wk.2: Favourite articles"
 lang: en
 ---
 
+You know Tim Bray, don't you? His take on [development languages in 2014][2]. TL;DR: We're screwed in the client side.
+
+[2]: https://www.tbray.org/ongoing/When/201x/2014/01/01/Software-in-2014
 
 Steven Levy at his best: "[How the NSA Almost Killed the Internet][1]". A great summary of every leak (to date) and its political and economic significance.
 
 [1]: http://www.wired.com/threatlevel/2014/01/how-the-us-almost-killed-the-internet/
-
-You know Tim Bray, don't you? His take on [development languages in 2014][2]. TL;DR: We're screwed in the client side.
-
-[2]: https://www.tbray.org/ongoing/When/201x/2014/01/01/Software-in-2014
 
 Another googler, Brett Slatkin, advocates to have a [dialectic instead of a debate][3] when techs and product managers discuss anything. It's common sense, but it's also quite easy to end in the wrong side of it without noticing.
 
