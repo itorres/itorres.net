@@ -6,7 +6,7 @@ lang: en
 ---
 
 
-Steven Levy at his best: [How the NSA Almost Killed the Internet][1]. A great summary of every leak (to date) and its political and economic significance.
+Steven Levy at his best: "[How the NSA Almost Killed the Internet][1]". A great summary of every leak (to date) and its political and economic significance.
 
 [1]: http://www.wired.com/threatlevel/2014/01/how-the-us-almost-killed-the-internet/
 
