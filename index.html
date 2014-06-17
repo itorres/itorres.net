@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit: 5 %}
+<p>I'm a proud father of three living in <a href="http://en.wikipedia.org/wiki/Bages">Bages</a>, a <a href="http://en.wikipedia.org/wiki/Catalan_people">Catalan</a> county, with <a title="Sara" href="https://plus.google.com/104003128687804944558">the best partner in crime</a> I could wish for.</p>
+<p>I'm also lucky and crazy enough to be a member of an association that builds <a title="Guifibages" href="http://guifibages.cat/">free <em>(as in freedom)</em> computer networks</a>, part of a <a title="Guifi.net" href="http://guifi.net/">greater project</a>.</p>
+<hr>
+{% for post in site.posts limit: 1 %}
 <div class="post">
-		<h2 class="content">{{ post.title }}</h2>	
-
+		<h3 class="content">Last note: {{ post.title }}</h3>
 	<h5>Published on {{ post.date | date: "%Y-%m-%d" }} <a href="{{post.url}}"> <i class="icon-leaf"></i></a></h5>
 	{{ post.content }}
 </div>
 {% endfor %}
-
-<a href="/archive/">Older entries</a>

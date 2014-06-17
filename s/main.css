@@ -1,22 +1,36 @@
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+English:400,400italic);
-
+@import url(http://fonts.googleapis.com/css?family=Special+Elite|Concert+One&subset=latin,latin-ext);
 body {
-	font-family: 'IM Fell English', serif;
+	font-family: 'Special Elite', serif;
 	font-size: 12pt;
-	padding-top: 60px;
-	padding-bottom: 40px;
+	background-color: #eee;
+}
+
+ul#nav , ul#nav > li {
+	display: inline;
+	margin: .5em;
+}
+
+div#content {
+	border-top: black solid 2px;
+	border-bottom: black solid 2px;
+	margin: 1em;
+}
+
+h1 {
+	font-size: inherit;
+	display: inline;
+	color: #c00;
 }
 
 a {
- 	color: #a63;
+ 	color: #c00;
 }
 
 .highlight {
 	background-color: #eee;
 }
 
-
-.sidebar-nav {
-	text-align: justify;
-	padding: 9px;
+hr {
+	border: 1px #000 solid;
 }

@@ -1,8 +1,6 @@
 timezone: UTC
-pygments: true
+highlighter: rouge
 permalink: pretty
-auto: true
-server: true
 prose:
   metadata:
     "_posts/blog": |
