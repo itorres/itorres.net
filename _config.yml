@@ -13,3 +13,4 @@ title: Ignacio Torres Masdeu
 author: Ignacio Torres Masdeu
 email: ignacio@torresmasdeu.name
 markdown: rdiscount
+include: [ .well-known ]

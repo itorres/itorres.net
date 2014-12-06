@@ -1,0 +1,80 @@
+---
+layout: null
+---
+==================================================================
+https://keybase.io/itorres
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://itorres.net
+  * I am itorres (https://keybase.io/itorres) on keybase.
+  * I have a public key with fingerprint 2CCB 85E6 8AEC C336 5ADF  1C14 A728 61BC 6411 65EA
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "2ccb85e68aecc3365adf1c14a72861bc641165ea",
+            "host": "keybase.io",
+            "key_id": "A72861BC641165EA",
+            "uid": "dd8f8a6771bb132f2ae465d9cb801600",
+            "username": "itorres"
+        },
+        "merkle_root": {
+            "ctime": 1414190250,
+            "hash": "073ee92d3ed62ff7615d26bd52e6c4d8aab0a46f8371b4afe1ed9e7c558af7c29509529369691b4118062d8ab90a89fd8a0c15e7716e5e9b156ca49a55348ea8",
+            "seqno": 84419
+        },
+        "service": {
+            "hostname": "itorres.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1414190284,
+    "expire_in": 157680000,
+    "prev": "0d7bddbd4719773936b2991f6b4a8f5635d19e889921b01aa3ef5892bdb9ff2b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFdkl9oHEUcx+8aUzUoNailkGLjKqhtOHZmd2ZnjpxwVUGCJhVKwSJc589vL9tc
+ds/d7SWxPQvFoj60NpZKBWuqhbakQduiD2oRaR6qVRCqEn0RqQ82Re1bFYWeM7Gi
+dfdlducz39/3+/vNvtu7Cj3FYw+KM7oXLhc/X5SFjUNff7HdkYmecsrbHdWIIM7t
+Khbj4JSdMZiSIoNSlPTHiYbS1qz/OjPgtCDNoiQ2lFsKSthpD1jcHg6juA5pM42s
+loOVkowAZQKU8jxKhA6RQr4IMKNIKuojRAkIIzmaZPkNVZ0lzVqkzd/qEr/+kb/5
+x6pmb9vShtYsZIIGAZISeTjEAnxKNDdlXURd14IZpNcjRXmSppBZu+OQjjWglibJ
+UmaVR5ZAvnm5i4lrDIls1AYMPACOtQea4jAMKCIaU6kJBqp8zYSQrvBpyDzjwRch
+INAcAkUIE2GgMCcuJ5h7lFNuAISYS7E5JrkrGA/NylWIgElAgQCXiFAlfC4I8XwG
+gpkEGTwbJ06Z+cZb236mrUiBtW2bdmO2Ugx2QM00yROVNMzGaJ43yzZyPtW04ATI
+mpGYtRo1GcXaTOy/I0UG/V87mD/gwGQzSqEWWYIElLnmsXWgZZukA6m11H6AeBB4
+Jq3EnKOQmo6wkFCPaMSBMc4xki4SwoOQMI6lljwMsfw3pGd8irqRzKJ6LPJtKTjt
+l4urbyoUewrLu5fZO1voufWOfy5yYcvNnfUNBN9fvvhr68RU9drQc6+uXVh8/yvn
+/KZT396jbts4fZg80dp/8vWu8eG58/5F5+Bv7eKG08d/Prqur2/FazvJ/hcmi7uv
+3PL4T0OHf7/wzuCJyplPN488fVK8NTP/p1j4bEvl7HD2C6uMfHJh+fGJg4UVp+ov
+Hc3OPf/oAb8zuCP/Yceh7iu1lSvHdunp6Tfvunf8SO+dk6u+hM6GQ2pwbu/d73qL
+a/bNVNyZ+6qnRffoOji36sfG5s6lvZ0H3lizMwV304sLuv/hZd/sOTJ7bdcIf6V6
+6ep87/0yX/te6+p3H5+d3LP1ma75D9p/FJ76aPXuD8UsL1eGRfpQX31+4u0nG4sH
+1FzrLw==
+=iEzM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/itorres
+
+==================================================================
