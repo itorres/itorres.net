@@ -11,10 +11,10 @@ forgotten about.
 [lumia800]: http://www.nokia.com/global/products/phone/lumia800/
 
 I got the Lumia in January 2012, tried it and put it in a drawer with a "meh"
-sensation. A couple of weeks ago I got fed up with the slugginesh of my iPhone 4
+sensation. A couple of weeks ago I got fed up with the slugginess of my iPhone 4
 and started looking for an alternative.
 
-Android did not cut it for it's performance on my Nexus 7 is far from being
+Android did not cut it for its performance on my Nexus 7 is far from being
 brilliant. A friend of mine lent me a [Geeksphone Peak][peak] and I don't have
 words to describe how horrible the [Firefox OS][] experience is.
 
@@ -23,7 +23,7 @@ words to describe how horrible the [Firefox OS][] experience is.
 
 I remembered the old Lumia and got it out of spite. The first surprise was being
 unable to use it for the best part of an afternoon while it updated itself to
-Windows Phone 7.8. Then I was able to start to configure it.
+Windows Phone 7.8. Then I was able to start configuring it.
 
 First step, create a Windows Live account linked to my torresmasdeu.name email
 account. Configuring my work (Exchange) and personal (Google Apps), Facebook and
