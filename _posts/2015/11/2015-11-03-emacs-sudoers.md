@@ -9,15 +9,14 @@ include: sudoers.org
 Today I did a presentation in the [November suders meetup][sudoers201511] explaining why I switched to Emacs [earlier this year][]. I used [an orgfile][] as a base and walked through it, doing demonstrations of different Emacs functionalities as org-mode, tramp, shells, magit, projectile and use-package. In that orgfile there's this excerpt:
 
 > # Intermission: motivation to check emacs for the nth time
-
 > One of the reasons I grew curious about Emacs again in the last years was due to [Brad Fitzpatrick][]'s mention on [Coders at Work][].
-
+>
 > Meanwhile I liked the notion of the integrating editor [propounded](http://research.swtch.com/acme) by [Acme](https://en.wikipedia.org/wiki/Acme_(text_editor)). In late 2014 I tried Acme for the nth time both in [Plan9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) through [drawterm](https://swtch.com/drawterm/), in [Plan 9 from User Space](https://swtch.com/plan9port/) and in the [Inferno](https://en.wikipedia.org/wiki/Inferno_%2528operating_system%2529) based [Acme: Stand Alone Complex](https://code.google.com/p/acme-sac/). Yes, I'm also a Plan9 fan.
-
+>
 > Another reason was by osmosis in one of my last gigs where the CTO was an avid Emacs user.
-
+>
 > Also, the classical joke saying that Emacs would be a nice OS if it had a half-decent text editor is now applicable to Eclipse. Emacs is lightweight by today's standards.
-
+>
 > There are other reasons like wanting my base tools to be Open Source and that learning Lisp is more compelling than learning the vim macro language.
 
 [sudoers201511]: http://lanyrd.com/2015/sudoersbcn/
