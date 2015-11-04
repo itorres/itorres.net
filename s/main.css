@@ -1,9 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Special+Elite|Concert+One&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,700,500,400italic&subset=latin,latin-ext);
 body {
-	font-family: 'Special Elite', serif;
+    padding: 1em;
+	font-family: 'Fira Sans', serif;
 	background-color: #eee;
     font-size: 1rem;
-    margin: 1em auto;
+    margin: 0 auto;
     max-width: 100em;
     line-height: 1.3em;
 }
@@ -16,9 +17,7 @@ ul#nav , ul#nav > li {
 div#content {
 	border-top: black solid 2px;
 	border-bottom: black solid 2px;
-	margin: 1em;
 }
-
 h1 {
 	font-size: inherit;
 	display: inline;
@@ -38,13 +37,20 @@ hr {
 }
 
 pre, code {
-    font-family: monospace;
+    font-family: 'Fira Mono', monospace;
     font-size: 1rem;
 }
 
 pre {
+    border: black 2px dashed;
     max-width: 81em;
     margin: 2em;
     padding: .5em 1em;
+    background: #fff;
+}
+
+blockquote {
+    padding: 1em;
+    border: black 2px dashed;
     background: #fff;
 }
