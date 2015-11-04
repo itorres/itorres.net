@@ -33,3 +33,15 @@ a {
 hr {
 	border: 1px #000 solid;
 }
+
+pre, code {
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+pre {
+    max-width: 81em;
+    margin: 2em;
+    padding: .5em 1em;
+    background: #fff;
+}
