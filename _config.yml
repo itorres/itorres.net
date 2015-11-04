@@ -1,5 +1,4 @@
 timezone: UTC
-highlighter: rouge
 permalink: pretty
 prose:
   metadata:
@@ -7,11 +6,13 @@ prose:
       title:    "Title of your article"
       abstract: "Abstract"
       lang: en
-
-domain: ignacio.torresmasdeu.name
+domain: itorres.net
 title: Ignacio Torres Masdeu
 author: Ignacio Torres Masdeu
-email: ignacio@torresmasdeu.name
-markdown: rdiscount
+email: i@itorres.net
+markdown: kramdown
 include: [ .well-known ]
 host: 0.0.0.0
+kramdown:
+  input: GFM
+  enable_coderay: true
