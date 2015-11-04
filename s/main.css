@@ -3,6 +3,9 @@ body {
 	font-family: 'Special Elite', serif;
 	background-color: #eee;
     font-size: 1rem;
+    margin: 1em auto;
+    max-width: 100em;
+    line-height: 1.3em;
 }
 
 ul#nav , ul#nav > li {
