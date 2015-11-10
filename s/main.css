@@ -42,15 +42,12 @@ pre, code {
 }
 
 pre {
-    border: black 2px dashed;
-    max-width: 81em;
-    margin: 2em;
+    margin: 1em 0;
     padding: .5em 1em;
     background: #fff;
 }
 
 blockquote {
     padding: 1em;
-    border: black 2px dashed;
     background: #fff;
 }

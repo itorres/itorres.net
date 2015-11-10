@@ -18,13 +18,13 @@ Y esta entrada es la prueba de que funciona. A la quinta.
 
 El problema que me he encontrado es la codificación de las cabeceras de correo. En estas latitudes tenemos la mala costumbre de escribir con acentos, bien mediante ISO-8859-1 o, como en el caso de cualquier persona que viva en este siglo, UTF-8. Y las librerías de python 2.x para correo apestan en ese sentido.
 
-Snippet:
-
-    subject,encoding  = decode_header(mail_message.subject)[0]
-    if encoding == None:
-      subject=subject.decode("utf8")
-    else:
-      subject=subject.decode(encoding)
+```python
+subject,encoding  = decode_header(mail_message.subject)[0]
+if encoding == None:
+  subject=subject.decode("utf8")
+else:
+  subject=subject.decode(encoding)
+```
 
 [posterous]: http://posterous.com/
 [gae-recvmail]: http://code.google.com/appengine/docs/python/mail/receivingmail.html

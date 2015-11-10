@@ -25,23 +25,25 @@ Without the tzinfo attribute you cannot use the `astimezone()` method. This is a
 
 - Use [pytz][] to have a database of timezones. There's a [gae-pytz][] project that packs the library so you don't hit the file limit of GAE.
 - Create a couple of filters. One to show the date in [ISO 8601][iso8601] format in the atom feed, the other to convert the timezone of the datetime object in the view.
-    
-        from datetime import datetime, timedelta, tzinfo
-        from google.appengine.ext import webapp
-        from pytz.gae import pytz
-        
-        register = webapp.template.create_template_register()
-        utc = pytz.timezone('UTC')
-        
-        @register.filter
-        def tolocal(date,tz="CET"):
-            local = pytz.timezone(tz)
-            return utc.localize(date).astimezone(local)
-        
-        @register.filter
-        def isodatetime(date):
-            return utc.localize(date).isoformat()
 
+```python
+from datetime import datetime, timedelta, tzinfo
+from google.appengine.ext import webapp
+from pytz.gae import pytz
+
+register = webapp.template.create_template_register()
+utc = pytz.timezone('UTC')
+
+@register.filter
+def tolocal(date,tz="CET"):
+    local = pytz.timezone(tz)
+    return utc.localize(date).astimezone(local)
+
+@register.filter
+def isodatetime(date):
+    return utc.localize(date).isoformat()
+```
+            
 So now my times are correct. And my AJAX administration zone is ugly but functional. Anybody wants a custom CMS for their [Google Apps][ga] domain?
 
 [bug]: http://code.google.com/p/googleappengine/issues/detail?id=2923
