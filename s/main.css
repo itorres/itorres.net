@@ -1,12 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:400,700,500,400italic&subset=latin,latin-ext);
 body {
     padding: 1em;
-	font-family: 'Fira Sans', serif;
 	background-color: #eee;
-    font-size: 1rem;
     margin: 0 auto;
-    max-width: 100em;
-    line-height: 1.3em;
+    max-width: 80em;
 }
 
 ul#nav , ul#nav > li {
@@ -34,11 +31,6 @@ a {
 
 hr {
 	border: 1px #000 solid;
-}
-
-pre, code {
-    font-family: 'Fira Mono', monospace;
-    font-size: 1rem;
 }
 
 pre {
