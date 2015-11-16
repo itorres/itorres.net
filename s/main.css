@@ -21,9 +21,8 @@ h1 {
 	color: #c00;
 }
 
-a {
- 	color: #c00;
-}
+a { color: #c00; }
+a:visited { color: #844; }
 
 .highlight {
 	background-color: #eee;
