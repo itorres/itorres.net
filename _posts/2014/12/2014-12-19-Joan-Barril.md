@@ -47,7 +47,7 @@ franja de 8 a 10 com "l'hora tonta". Tot i així havia dies en que
 podia escoltar, si més no, la portada i els bons propòsits. I només
 amb això el món esdevenia més humà.
 
-El seu equip va fer un [programa d'homenatge][homenatge] el dia 15 de
+El seu equip va fer un [programa d'homenatge][] el dia 15 de
 desembre. Escolteu-lo i gaudiu.
 
-[homenatge]: http://www.ccma.cat/catradio/alacarta/El-Cafe-de-la-Republica/El-Cafe-de-la-Republica-homenatge-a-Joan-Barril-Primera-hora/audio/861732/ "Homenatge a Joan Barril"
+[programa d'homenatge]: http://www.ccma.cat/catradio/alacarta/El-Cafe-de-la-Republica/El-Cafe-de-la-Republica-homenatge-a-Joan-Barril-Primera-hora/audio/861732/ "Homenatge a Joan Barril"
