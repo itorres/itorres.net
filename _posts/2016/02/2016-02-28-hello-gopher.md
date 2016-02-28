@@ -27,4 +27,4 @@ does not look so different from the HTML rendering.
 [tweet]: https://twitter.com/cstross/status/703330852844007425
 [sdfeu]: https://sdfeu.org/w/faq:gopher
 [gopher.el]: https://github.com/ardekantur/gopher.el
-[itorres.net:70]: http://itorres.net:70/notes/2016/02/
+[itorres.net:70]: http://itorres.net:70/notes/
