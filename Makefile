@@ -8,6 +8,7 @@ build:
 	docker run --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it jekyll/jekyll jekyll build
 
 sync: build
+	rsync --delete -salv $(CURDIR)/_posts/* hq.xin.cat:/www/gopher/notes/
 	rsync --delete -salv $(CURDIR)/_site/ hq.xin.cat:/www/itorres.net/
 
 serve:
