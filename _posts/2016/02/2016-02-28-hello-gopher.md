@@ -16,8 +16,8 @@ But I did remember that Gopher support had been dropped in Firefox 4.0
 so I looked for a client. I knew that [sdfeu][] actively supports
 Gopher so I headed there to do a quick check.
 
-And I should not have got into that rabbit hole for in three minutes I
-had already found an [Emacs mode to browse Gopher][gopher.el].
+And I should not have got into that *rodent* hole for in three minutes
+I had already found an [Emacs mode to browse Gopher][gopher.el].
 
 With that solved it was simply a matter of time having
 [my site served by Gopher][itorres.net:70] as well. And guess what, it
