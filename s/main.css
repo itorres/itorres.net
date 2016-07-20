@@ -1,43 +1,40 @@
 body {
     padding: 1em;
-	background-color: #eee;
     margin: 0 auto;
-    max-width: 40em;
+    max-width: 60em;
 }
 
-ul#nav , ul#nav > li {
+ul#nav { margin: .2em 0; padding: 0; }
+
+ul#nav > li {
 	display: inline;
-	margin: .5em;
+	margin-right: .5em;
 }
 
 div#content {
-	border-top: black solid 2px;
-	border-bottom: black solid 2px;
+	border-top: solid 2px;
+	border-bottom: solid 2px;
 }
+
 h1 {
 	font-size: inherit;
 	display: inline;
-	color: #c00;
 }
-
-a { color: #c00; }
-a:visited { color: #844; }
 
 .highlight {
 	background-color: #eee;
 }
 
 hr {
-	border: 1px #000 solid;
+	border: 1px solid;
 }
 
 pre {
     margin: 1em 0;
     padding: .5em 1em;
-    background: #fff;
 }
 
 blockquote {
     padding: 1em;
-    background: #fff;
+    border-left: .2em solid;
 }
