@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "2014 wk.2: Favourite articles"
+title: "2014 wk.02: Favourite articles"
 lang: en
 ---
 
