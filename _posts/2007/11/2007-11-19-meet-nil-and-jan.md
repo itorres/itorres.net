@@ -10,8 +10,6 @@ url: null
 
 ---
 
-[![Nil and Jan][nij-img]][nij]
+![Nil and Jan](/g/nil_i_jan.jpg)
 
 They were born last thursday, November 15. We are all back home and I'm typing this while they and Sara sleep happily.
-[nij]: http://picasaweb.google.es/lh/photo/hG97mTI-3piEkhUNRQPTFw?feat=embedwebsite
-[nij-img]: http://lh5.ggpht.com/_YodXPHaalgg/S6zFi5QphYI/AAAAAAAABxc/SJQoCPTl7nY/s144/nil_i_jan.jpg
