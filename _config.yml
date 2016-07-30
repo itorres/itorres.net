@@ -10,9 +10,9 @@ domain: itorres.net
 title: Ignacio Torres Masdeu
 author: Ignacio Torres Masdeu
 email: i@itorres.net
-highlighter: pygments
+#highlighter: pygments
 include: [ .well-known ]
 host: 0.0.0.0
-syntax_highlighter: coderay
-kramdown:
-  input: GFM
+# syntax_highlighter: coderay
+# kramdown:
+#   input: GFM
