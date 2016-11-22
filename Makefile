@@ -1,5 +1,5 @@
 TOP := $(dir $(lastword $(MAKEFILE_LIST)))
-
+TARGET = /home/itorres/var/dockerdata/www
 .PHONY: all build sync serve
 
 all: serve
@@ -11,8 +11,8 @@ build:
 	cp -al _posts/*/*/* _gopher
 
 sync: build
-	rsync --delete -salv _gopher/ hq.xin.cat:/www/gopher/notes/
-	rsync --delete -salv $(CURDIR)/_site/ hq.xin.cat:/www/itorres.net/
+	rsync --delete -salv _gopher/ hq.xin.cat:$(TARGET)/gopher/notes/
+	rsync --delete -salv $(CURDIR)/_site/ hq.xin.cat:$(TARGET)/itorres.net/
 
 serve:
 	docker run --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll s
