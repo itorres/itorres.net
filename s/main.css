@@ -1,8 +1,15 @@
+@import url('cmu/cmun-sans.css');
+@import url('cmu/cmun-serif.css');
+@import url('cmu/cmun-typewriter.css');
 body {
+    font-family: 'Computer Modern Serif', serif;
     padding: 1em;
     margin: 0 auto;
     max-width: 60em;
 }
+
+
+pre.highlight,code{ font-family: 'Computer Modern Typewriter'; }
 
 ul#nav { margin: .2em 0; padding: 0; }
 
