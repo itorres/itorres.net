@@ -46,6 +46,7 @@ to [icculus.org][]. He [restored the log][]
 but [got rid of it in 2013][] his `.plan` archive
 is [still available][].
 
+[icculus.org]: https://icculus.org/
 [restored the log]: http://web.archive.org/web/20060715044531/http://icculus.org:80/~hendersa/college/
 [got rid of it in 2013]: http://web.archive.org/web/20130630055553/http://icculus.org:80/~hendersa/
 [still available]: http://icculus.org/cgi-bin/finger/finger.pl?user=hendersa&listarchives=1
