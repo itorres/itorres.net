@@ -16,4 +16,4 @@ sync: build
 
 serve:
 	docker kill itorres.net-serve > /dev/null 2>&1 && docker rm itorres.net-serve || true
-	docker run --name itorres.net-serve --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll s
+	docker run --name itorres.net-serve --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll s -V --future
