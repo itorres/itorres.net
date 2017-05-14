@@ -15,4 +15,5 @@ sync: build
 	rsync --delete -salv $(CURDIR)/_site/ hq.xin.cat:$(TARGET)/itorres.net/
 
 serve:
-	docker run --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll s
+	docker kill itorres.net-serve > /dev/null 2>&1 && docker rm itorres.net-serve || true
+	docker run --name itorres.net-serve --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll s
