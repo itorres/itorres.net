@@ -18,7 +18,7 @@ series of four articles described by the author as:
 > tape and a gallon of common, household bleach.
 
 Today I wanted to share it with a friend and was unable to find it. By
-sheer lock I stumbled on a mention of it with a link in
+sheer luck I stumbled on a mention of it with a link in
 a [2003 linkroll][] after searching [DDG][] for `"The Experiment Log"
 "act of god"`:
 
