@@ -7,8 +7,8 @@ all: serve
 build:
 	docker run --rm --label=jekyll --volume=$(CURDIR):/srv/jekyll -it jekyll/jekyll jekyll build
 	[ -d  _gopher ] || mkdir _gopher
-	echo "Online diary since 2001" > _gopher/.abstract
-	cp -al _posts/*/*/* _gopher
+#	echo "Online diary since 2001" > _gopher/.abstract
+#	cp -al _posts/*/*/* _gopher
 
 sync: build
 	rsync --delete -salv _gopher/ hq.xin.cat:$(TARGET)/gopher/notes/
