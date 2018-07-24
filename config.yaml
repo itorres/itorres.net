@@ -1,0 +1,6 @@
+baseURL: https://itorres.net/
+disablePathToLower: true
+languageCode: en-us
+title: Ignacio Torres Masdeu
+theme: itorres
+pygmentsCodeFences: true
