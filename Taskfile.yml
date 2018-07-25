@@ -1,0 +1,11 @@
+version: '2'
+tasks:
+  build:
+    cmds:
+      - "hugo --cleanDestinationDir --gc"
+  sync:
+    deps: [build]
+    cmds:
+      - "rsync --delete -xHlav public/ root@www1:/srv/vhosts/itorres.net/www/"
+
+
