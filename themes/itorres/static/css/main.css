@@ -1,15 +1,12 @@
-@import url('cmu/cmun-sans.css');
-@import url('cmu/cmun-serif.css');
-@import url('cmu/cmun-typewriter.css');
+@import url('plex/css/ibm-plex.min.css');
 body {
-    font-family: 'Computer Modern Serif', serif;
+    font-family: 'IBM Plex Serif', serif;
     padding: 1em;
     margin: 0 auto;
     max-width: 60em;
 }
 
-
-pre.highlight,code{ font-family: 'Computer Modern Typewriter'; }
+pre.highlight,code{ font-family: 'IBM Plex Mono'; font-style: italic; font-size: smaller;}
 
 ul#nav { margin: .2em 0; padding: 0; }
 
@@ -47,3 +44,5 @@ blockquote {
 }
 blockquote > p:first-child { margin-top: 0; }
 blockquote > p:last-child  { margin-bottom: 0; }
+ul.pagination > li {display: inline}
+#main > div { margin-left: 1em;}

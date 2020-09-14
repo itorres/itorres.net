@@ -5,14 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .Params.title }} {{ .Params.title }} | {{ end }} {{ .Site.Title }}</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
+    <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
     {{ if  .Params.head }} {{ .Params.head }} {{ end }}
   </head>
   <body id="home">
 <a class="brand" href="/"><h1>Ignacio Torres Masdeu</h1></a>
     <ul id="nav">
-<!--		<li><a href="/archive/">Archive</a></li> 
-		<li><a href="/now/">Now</a></li> -->
+		<li><a href="/post/">Archive</a></li>
 		<li><a rel="me" href="https://github.com/itorres">Github</a></li>
 		<li><a rel="me" href="https://www.linkedin.com/in/ignaciotorresmasdeu">LinkedIn</a></li>
 		<li><a href="https://www.laquadrature.net/">π</a></li>
