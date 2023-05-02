@@ -2,4 +2,4 @@ build:
 	hugo --cleanDestinationDir --gc
 
 sync: build
-	rsync -xHlav public/ hq.xin.cat:/srv/vhosts/itorres.net/www/
+	rsync -xHlav public/ itorres@venera13.hs.xin.cat:/xin/www/itorres.net
